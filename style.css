@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center; 
+    color: white;
+}
+p {
+    color: white;
+    font-size: 25px;
+}
+.first {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(236,27,46,1) 0%, rgba(147,41,30,1) 90% );
+    border-top-left-radius: 20px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 20px;
+    height: 200px;
+} 
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+} 
